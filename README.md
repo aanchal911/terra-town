@@ -4,7 +4,9 @@ An interactive 3D web experience that transforms carbon footprint tracking into 
 
 ## 🎬 Demo
 
-![TerraTown Demo](./Screen%20Recording%202026-06-09%20233332.mp4)
+![TerraTown Demo](https://github.com/user-attachments/assets/demo-preview.gif)
+
+**📹 [Watch Full Video Demo](./Screen%20Recording%202026-06-09%20233332.mp4)**
 
 > Watch the floating islands come alive as you track your carbon footprint!
 
