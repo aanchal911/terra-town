@@ -13,7 +13,17 @@
 [![Powered by Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-**📹 [▶️ Watch Full Video Demo Here!](./Screen%20Recording%202026-06-09%20233332.mp4)**
+---
+
+### 🎬 Live Demo Preview
+
+![Demo Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+> 🌍 *Your floating world reacts to every action you take in real time!*
+
+**📹 [▶️ Click Here to Watch Full Video Demo!](./Screen%20Recording%202026-06-09%20233332.mp4)**
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=terratown.readme)
 
 </div>
 
